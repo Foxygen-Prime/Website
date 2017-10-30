@@ -54,7 +54,7 @@ export default class BaseLayout extends Component {
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">Home</a></li>
       <li class="dropdown">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Coding
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Portfolio
         <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Page 1-1</a></li>
@@ -71,6 +71,8 @@ export default class BaseLayout extends Component {
                   <li><a href="#">Page 1-3</a></li>
                     </ul>
                   </li>
+                  <li><a href="https://medium.com/@Foxygen_Prime">Blog</a></li>
+
                   <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Experimental
                     <span class="caret"></span></a>
@@ -82,7 +84,7 @@ export default class BaseLayout extends Component {
                         </li>
 
 
-      <li><a href="#">Marketing</a></li>
+
       <li><a href="#">Experimental</a></li>
 
     </ul>
